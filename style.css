@@ -626,6 +626,9 @@
       .qualite .wrapper{
           grid-template-columns: repeat(1,1fr);
       }
+      .defaut .wrapper{
+        grid-template-columns: repeat(1,1fr);
+    }
       .contact form{
           flex-direction: column;
       }
